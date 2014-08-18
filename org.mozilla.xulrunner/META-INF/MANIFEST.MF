@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Mozilla Xulrunner
+Bundle-SymbolicName: org.mozilla.xulrunner;singleton:=true
+Bundle-Version: 24.0.0
+Bundle-Vendor: www.mozilla.org
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Activator: org.mozilla.xulrunner.impl.Activator
+Require-Bundle: org.eclipse.swt;bundle-version="3.0.0",
+ org.eclipse.osgi;bundle-version="3.10.0",
+ org.eclipse.equinox.common;bundle-version="3.6.200"
+Bundle-ActivationPolicy: lazy
+Export-Package: org.mozilla.xulrunner
