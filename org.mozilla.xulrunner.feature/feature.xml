@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="org.mozilla.xulrunner.feature"
-      label="Feature"
+      label="Mozilla Xulrunner"
       version="24.0.0"
       provider-name="www.mozilla.org">
 
