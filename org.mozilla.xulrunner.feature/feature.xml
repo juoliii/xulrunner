@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="org.mozilla.xulrunner.feature"
-      label="Feature"
+      label="Mozilla Xulrunner"
       version="24.0.0"
       provider-name="www.mozilla.org">
 
@@ -404,8 +404,7 @@ Exhibit B - &quot;Incompatible With Secondary Licenses&quot; Notice
          download-size="0"
          install-size="0"
          version="0.0.0"
-         fragment="true"
-         unpack="false"/>
+         fragment="true"/>
 
    <plugin
          id="org.mozilla.xulrunner.linux_x86_64"
@@ -415,8 +414,7 @@ Exhibit B - &quot;Incompatible With Secondary Licenses&quot; Notice
          download-size="0"
          install-size="0"
          version="0.0.0"
-         fragment="true"
-         unpack="false"/>
+         fragment="true"/>
 
    <plugin
          id="org.mozilla.xulrunner.win_x86"
@@ -426,8 +424,7 @@ Exhibit B - &quot;Incompatible With Secondary Licenses&quot; Notice
          download-size="0"
          install-size="0"
          version="0.0.0"
-         fragment="true"
-         unpack="false"/>
+         fragment="true"/>
 
    <plugin
          id="org.mozilla.xulrunner.linux_x86"
@@ -437,7 +434,6 @@ Exhibit B - &quot;Incompatible With Secondary Licenses&quot; Notice
          download-size="0"
          install-size="0"
          version="0.0.0"
-         fragment="true"
-         unpack="false"/>
+         fragment="true"/>
 
 </feature>
