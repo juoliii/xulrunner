@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.mozilla.xulrunner.feature_24.0.0.jar" id="org.mozilla.xulrunner.feature" version="24.0.0">
+      <category name="xulrunner_24_0_0"/>
+   </feature>
+   <category-def name="xulrunner_24_0_0" label="Mozilla HTML5 Browser"/>
+</site>
